@@ -1,4 +1,4 @@
-__author__ = 'philippe'
+__author__ = 'Eric Schulz'
 from Tkinter import *
 master = Tk()
 
